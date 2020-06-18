@@ -1,0 +1,27 @@
+.dashboard {
+  display:flex;
+}
+
+.colorBox {
+    width: 20px;
+    height: 20px;
+    border: 2px solid black;
+    display: inline-block;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.pixel {
+    width: 25px;
+    height: 25px;
+    border: 0.5px solid black;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
